@@ -1,4 +1,4 @@
-# newstrove
+# Newstrove
 
 A new Flutter project.
 
