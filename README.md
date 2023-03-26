@@ -1,6 +1,6 @@
 # Newstrove
 
-A new Flutter project.
+This app is a news app which fetched News From NewsAPI.org. This app in made in flutter.
 
 ## Getting Started
 
