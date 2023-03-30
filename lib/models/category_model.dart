@@ -1,5 +1,5 @@
 
 class CategoryModel{
-  late String imageUrl;
+  late String imageAssestUrl;
   late String categoryName;
 }
